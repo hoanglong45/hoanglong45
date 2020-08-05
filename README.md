@@ -8,7 +8,6 @@
 
 [<img align="left" alt="hoanglong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="hoanglong | HackerRank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Font_Awesome_5_brands_hackerrank.svg" />][hackerrank]
-asdasdasdasd
 <br />
 
 ### Languages and Tools:
