@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.seekicon.com/free-icon-download/hackerrank-icon_1.svg" />][hackerrank]
+[<img align="left" alt="hoanglong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="hoanglong | HackerRank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Font_Awesome_5_brands_hackerrank.svg" />][hackerrank]
 
 <br />
 
