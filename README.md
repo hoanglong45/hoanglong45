@@ -1,8 +1,6 @@
 ### Hi there, I'm Long 👋
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Interested in Data Science, Business Intelligence
-- 🥅 Goals: Become a Product Owner, Product Manager
 - ⚡ Fun fact: I'm also a DJ 🤣
 
 ### Connect with me:
